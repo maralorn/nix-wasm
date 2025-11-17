@@ -2,11 +2,11 @@
   "nodes": {
     "flake-compat": {
       "locked": {
-        "lastModified": 1746162366,
-        "narHash": "sha256-5SSSZ/oQkwfcAz/o/6TlejlVGqeK08wyREBQ5qFFPhM=",
+        "lastModified": 1761640442,
+        "narHash": "sha256-AtrEP6Jmdvrqiv4x2xa5mrtaIp3OEe8uBYCDZDS+hu8=",
         "owner": "nix-community",
         "repo": "flake-compat",
-        "rev": "0f158086a2ecdbb138cd0429410e44994f1b7e4b",
+        "rev": "4a56054d8ffc173222d09dad23adf4ba946c8884",
         "type": "github"
       },
       "original": {
@@ -42,11 +42,11 @@
       },
       "locked": {
         "host": "gitlab.haskell.org",
-        "lastModified": 1761126516,
-        "narHash": "sha256-TLnaA5h70pmbLGV8ATDKm1BVbAgH6NAdRhtTURUef+Y=",
+        "lastModified": 1763306408,
+        "narHash": "sha256-CcoMjrQItpUzxwmCaT4bSmY+qkhOgoYQtdXzysMdjBQ=",
         "owner": "haskell-wasm",
         "repo": "ghc-wasm-meta",
-        "rev": "2b7ae702dab186af5b1617682b7e997e09d8540a",
+        "rev": "1d2c1c42d46a30c69377658fe0489b35cfbbfd6d",
         "type": "gitlab"
       },
       "original": {
@@ -58,17 +58,17 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1761179020,
-        "narHash": "sha256-SEHC21bqmgUgmRovTwOxyUWjLEory2+zClh3tPpytbo=",
-        "owner": "ners",
+        "lastModified": 1763283776,
+        "narHash": "sha256-Y7TDFPK4GlqrKrivOcsHG8xSGqQx3A6c+i7novT85Uk=",
+        "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "aa7daab1607bbd6be19b957286a3815ac5200767",
+        "rev": "50a96edd8d0db6cc8db57dab6bb6d6ee1f3dc49a",
         "type": "github"
       },
       "original": {
-        "owner": "ners",
-        "ref": "haskell",
+        "owner": "nixos",
         "repo": "nixpkgs",
+        "rev": "50a96edd8d0db6cc8db57dab6bb6d6ee1f3dc49a",
         "type": "github"
       }
     },
